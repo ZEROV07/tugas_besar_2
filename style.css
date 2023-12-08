@@ -1,0 +1,12 @@
+
+#button-chat
+{
+	position: fixed;
+	top: 16px;
+	left: 16px;
+}
+#spacer
+{
+	height: 48px;
+	line-height: 48px;
+}
